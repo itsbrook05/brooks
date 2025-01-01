@@ -34,6 +34,7 @@ class StaticUtils {
     "https://img.icons8.com/android/480/ffffff/twitter.png",
     "https://img.icons8.com/metro/308/ffffff/linkedin.png",
     "https://img.icons8.com/material-rounded/384/ffffff/github.png",
+    "https://img.icons8.com/?size=100&id=37326&format=png&color=000000"
   ];
 
   static const List<String> socialLinks = [
@@ -42,11 +43,12 @@ class StaticUtils {
     "https://x.com/codewithbrook",
     "https://www.linkedin.com/in/noufel-benabid-2b20502a6/",
     "https://github.com/itsbrook05",
+    "https://www.youtube.com/@CodeWithBrook"
     
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/1sDmqw28vIsFObl-I12Yg0dS2aqJyC979/view';
+      'https://drive.google.com/file/d/1E6nnwurOtObNvageSZNK9gyCWFqefVN-/view';
 
   static const String gitHub = 'https://github.com/itsbrook05';
 }

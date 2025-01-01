@@ -16,11 +16,9 @@ class HomeMobile extends StatelessWidget {
   
       final appProvider = Provider.of<AppProvider>(context);
 
-    return SizedBox(
-      
+    return SizedBox(      
       child: Stack(
-        children: [
-          
+        children: [          
           Container(
             margin: EdgeInsets.fromLTRB(
               AppDimensions.normalize(10),
